@@ -8,3 +8,6 @@
 */logs
 */src/test/resources/
 */dependency-reduced-pom.xml
+scripts.txt
+/.vs/Phenomiser/v16
+/.vs
